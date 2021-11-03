@@ -4,3 +4,6 @@ dist
 dist-ssr
 *.local
 .eslintcache
+board.tsx
+square.tsx
+game.tsx
